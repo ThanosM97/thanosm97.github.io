@@ -11100,3 +11100,27 @@ screen and (min-width:769px) {
     max-width: 100%;
     max-height: 100%;
 }
+
+
+/* Based on https://github.com/RyanFitzgerald/devportfolio/blob/master/css/styles.css */
+.skills {
+    text-align: center
+}
+
+.skills ul {
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+    max-width: 800px
+}
+
+.skills li {
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: #374054;
+    background: #e4e4ea;
+    list-style: none;
+    cursor: default;
+    font-size: 1.2em
+}
