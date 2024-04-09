@@ -11153,3 +11153,7 @@ screen and (min-width:769px) {
     display: block;
     margin: 0;
 }
+
+.publications {
+    padding-left: 4%;
+}
