@@ -11116,7 +11116,7 @@ screen and (min-width:769px) {
     display: block;
     margin: 0 auto;
     padding: 0;
-    max-width: 800px
+    max-width: 100%
 }
 
 .skills li {
