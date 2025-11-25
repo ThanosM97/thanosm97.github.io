@@ -6294,7 +6294,7 @@ a.list-item {
 }
 
 .media {
-    align-items: flex-start;
+    align-items: center;
     display: flex;
     text-align: left
 }
